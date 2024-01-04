@@ -1,0 +1,21 @@
+Used for inspiration for the design of the website, https://www.youtube.com/watch?v=l9YwW-tIEkk 🔥Build a social media page with HTML CSS
+
+Used for inspiration for the post section https://www.youtube.com/watch?v=zM93yZ_8SvE React Social Media App Design Tutorial | React.js UI Course Full
+
+Inspirational Effects https://bobbyhadz.com/blog/react-on-hover-show-text Show text when hovering over an Element in React | bobbyhadz
+
+Adobe express for the logo
+
+Used for inspiration from a past project that I participated in https://vp-10.github.io/practice/index.html
+
+Unit Testing Documentation https://testing-library.com/
+
+Unit Testing Test Examples https://www.softwaretestingo.com/test-cases-for-edit-functionality/
+
+Jest Documentation https://jestjs.io/
+
+React Quill Usage https://blog.logrocket.com/build-a-wysiwyg-text-editor-using-quill/
+
+Inspiration for React Page Design Elements https://www.youtube.com/watch?v=pFHyZvVxce0
+
+Dropdown Menu in React - Functionality and Design https://www.youtube.com/watch?v=KROfo7vuIGY
